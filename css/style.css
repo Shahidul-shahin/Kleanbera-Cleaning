@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.clr{
+    clear: both;
+}
+
+
+/* common css end */
+
+.menu-bg{
+    width: 100%;
+    height: 100px;
+    background-color: #171a38f3;
+}
+
+
+
+/* menu css end */
